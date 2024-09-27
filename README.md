@@ -1,6 +1,6 @@
 # SQLsolutions
- # 1. Basic understanding of syntax and structure
- #  2 . know about what is database and tables?
+ 1. Basic understanding of syntax and structure
+ 2 . know about what is database and tables?
 
  # Quering data :
   Data defintion Language : which means define your query such as create , alter, truncate, drop, rename
@@ -20,7 +20,7 @@
     - aggregates functions like count, sum , avg, max, min.
    
     5 subquering
-    using, select, where and having
+    - using, select, where and having
 
     6. Indexes
     -  creating and using views for simplied quering
